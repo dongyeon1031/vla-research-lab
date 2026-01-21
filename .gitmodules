@@ -10,3 +10,6 @@
 	path = baselines/openvla-oft
 	url = https://github.com/evansh666/openvla-oft.git
 	branch = main
+[submodule "behavior-1k"]
+	path = behavior-1k
+	url = git@github.com:StanfordVL/BEHAVIOR-1K.git
